@@ -17,7 +17,7 @@ El juego incluye:
 * 2 idiomas por juego para una configuración multicultural
 * 1 mini-juego para ayudar a resolver conflictos interpersonales.
 
-![Juego de cartas de personalidades](assets/images/discover.png)
+![Juego de cartas de personalidades](../assets/images/discover.png)
 
 La formación incluye:
 * Perspectivas de las personalidades.
@@ -39,4 +39,4 @@ La formación incluye:
 * Para jugar con todos, desde los 13 hasta los 113 años.
 * Para jugar sin la necesidad de descargar + instalar + permitir algo en un dispositivo
 
-![Juego de cartas de personalidades](assets/images/cardsin2languages.png)
+![Juego de cartas de personalidades](../assets/images/cardsin2languages.png)
