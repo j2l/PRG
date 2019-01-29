@@ -19,7 +19,7 @@ The game includes:
 * 2 languages per game for multi-cultural setup
 * 1 mini-game to help solve interpersonal conflicts
 
-![Personalities Cards Game]({{site.baseurl}}/assets/images/discover.png)
+![Personalities Cards Game](assets/images/discover.png)
 
 The training includes:
 * Personalities insights
@@ -41,4 +41,4 @@ The training includes:
 * To play with everyone around, from 13 to 113 years
 * To play without the need to download+install+allow something on a device
 
-![Personalities Cards Game]({{site.baseurl}}/assets/images/cardsin2languages.png)
+![Personalities Cards Game](assets/images/cardsin2languages.png)
