@@ -1,6 +1,9 @@
 ---
 published: true
 ---
-Duty Fulfiller
+# ISTJ
+
+## The Duty Fulfiller
+
 This personality's traits are:
  Pragmatic, prod realist
