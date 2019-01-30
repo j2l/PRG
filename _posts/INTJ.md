@@ -1,3 +1,6 @@
+---
+published: true
+---
 Strategic Scientist
-This personality is usually:
+This personality's traits are:
  Theorist, bookworm, innovative, quiet, planning, 

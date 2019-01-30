@@ -1,3 +1,6 @@
+---
+published: true
+---
 Guardian
-This personality is usually:
+This personality's traits are:
  Pragmatic, supervisor, no patience for [emotions, lazy, inefficient], impliqué (religious, family, friends, work), humor

@@ -1,3 +1,6 @@
+---
+published: true
+---
 Entertainer
-This personality is usually:
+This personality's traits are:
  Caretaker, outgoing 

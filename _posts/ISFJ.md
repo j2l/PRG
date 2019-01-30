@@ -1,3 +1,6 @@
+---
+published: true
+---
 Nurturer
-This personality is usually:
+This personality's traits are:
  Caretaker, sensible helper

@@ -1,3 +1,6 @@
+---
+published: true
+---
 Mechanic
-This personality is usually:
+This personality's traits are:
  Ppragmatic, adaptable technician

@@ -1,3 +1,6 @@
+---
+published: true
+---
 Doer
-This personality is usually:
+This personality's traits are:
  Pragmatic, agile troubleshooter

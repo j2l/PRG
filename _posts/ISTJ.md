@@ -1,3 +1,6 @@
+---
+published: true
+---
 Duty Fulfiller
-This personality is usually:
+This personality's traits are:
  Pragmatic, prod realist

@@ -1,3 +1,6 @@
+---
+published: true
+---
 Caregiver
-This personality is usually:
+This personality's traits are:
  Nurture, please, peace, no argument, crave communication to validate acceptance

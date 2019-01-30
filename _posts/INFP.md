@@ -1,3 +1,6 @@
+---
+published: true
+---
 Mediator
-This personality is usually:
+This personality's traits are:
  Empaths, creative individualist, poetic, idealist, avoid conflict

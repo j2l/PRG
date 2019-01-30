@@ -1,3 +1,6 @@
+---
+published: true
+---
 Campaigner
-This personality is usually:
+This personality's traits are:
  Empaths, expressive advocate
