@@ -128,4 +128,4 @@ csv:
 
 collections:
   staff_members:
-    people: true
+    output: true
