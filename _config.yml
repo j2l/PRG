@@ -87,6 +87,7 @@ plugins:
  - jemoji
  - jekyll-mentions
  - pagemaster
+ - jekyll-import
 
 
 #
