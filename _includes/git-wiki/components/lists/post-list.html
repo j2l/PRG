@@ -4,17 +4,6 @@
     {% endif %}
 
     <span class="post-list-title">Select your personality:</span>
-	<ul class="post-list">
-        {% assign numPages=0 %}
-        {% assign items = site.data.public1 %}
-        {% for column in items %}
-        <li class="post-list-item">
-            <a href="{{column.title}}">{{column.title}}</a>
-        </li>
-
-        {% endfor %}
-    </ul>
-	
     <ul class="post-list">
         {% assign numPages=0 %}
         {% assign items = site.posts | sort: 'date' %}
