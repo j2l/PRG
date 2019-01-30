@@ -7,9 +7,9 @@
 	<ul class="post-list">
         {% assign numPages=0 %}
         {% assign items = site.data.public1 %}
-        {% for blog in items %}
+        {% for column in items %}
         <li class="post-list-item">
-            <a href="{{ post.url | relative_url }}">{{blog.title}}</a>
+            <a href="{{ column.title | relative_url }}">{{column.title}}</a>
         </li>
 
         {% endfor %}
