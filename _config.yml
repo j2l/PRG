@@ -122,9 +122,9 @@ inc_after_post_list :
 
 csv:
   data:
-    source: test1.csv
+    source: test.csv
     slug: title
     
 collections:
-  blog:
+  posts:
     output:true
