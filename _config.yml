@@ -87,7 +87,6 @@ plugins:
  - jemoji
  - jekyll-mentions
  - jekyll-csv
- - pagemaster
  - jekyll-import
 
 #
@@ -124,4 +123,4 @@ inc_after_post_list :
 
 csv:
   blog:
-    source: https://docs.google.com/spreadsheets/u/1/d/1rFnkM9rrhwmo5eTwhEPordgucf-iNACnzc6E78elkaM/export?format=csv
+    source: test.csv
