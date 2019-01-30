@@ -127,4 +127,4 @@ collections:
     output: true
     source: test.csv
     id_key: pid
-    layout: iiif-image-page
+    layout: writer-profile-page
