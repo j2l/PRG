@@ -27,7 +27,7 @@
         {% assign items = site.data.test %}
         {% for blog in items %}
         <li class="post-list-item">
-            <a href="{{ post.url | relative_url }}">{{items.content}}</a>
+            <a href="{{ post.url | relative_url }}">{{blog.title}}</a>
         </li>
 
         {% endfor %}
