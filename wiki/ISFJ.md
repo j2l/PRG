@@ -1,6 +1,3 @@
----
-published: true
----
 # ISFJ
 
 ## The Nurturer

@@ -1,6 +1,3 @@
----
-published: true
----
 # ENFP
 
 ## The Campaigner

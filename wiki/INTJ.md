@@ -1,6 +1,3 @@
----
-published: true
----
 # INTJ
 
 ## The Strategic Scientist

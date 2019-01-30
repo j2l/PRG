@@ -1,6 +1,3 @@
----
-published: true
----
 # ESFJ
 
 ## The Caregiver

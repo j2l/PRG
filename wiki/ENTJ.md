@@ -1,6 +1,3 @@
----
-published: true
----
 # ENTJ
 
 ## The The Executive Moneymaker

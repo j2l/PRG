@@ -1,6 +1,3 @@
----
-published: true
----
 # ESFP
 
 ## The Entertainer

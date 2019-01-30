@@ -1,6 +1,3 @@
----
-published: true
----
 # ISTJ
 
 ## The Duty Fulfiller

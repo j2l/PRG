@@ -1,6 +1,3 @@
----
-published: true
----
 # INTP
 
 ## The Thinker

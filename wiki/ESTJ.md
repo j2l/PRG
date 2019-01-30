@@ -1,6 +1,3 @@
----
-published: true
----
 # ESTJ
 
 ## The Guardian

@@ -1,6 +1,3 @@
----
-published: true
----
 # ISTP
 
 ## The Mechanic

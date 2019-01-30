@@ -1,6 +1,3 @@
----
-published: true
----
 # INFP
 
 ## The Mediator

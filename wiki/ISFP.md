@@ -1,6 +1,3 @@
----
-published: true
----
 # ISFP
 
 ## The Artist

@@ -1,6 +1,3 @@
----
-published: true
----
 # ENFJ
 
 ## The Giver

@@ -1,6 +1,3 @@
----
-published: true
----
 # ESTP
 
 ## The Doer

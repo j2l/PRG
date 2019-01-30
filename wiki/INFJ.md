@@ -1,6 +1,3 @@
----
-published: true
----
 # INFJ
 
 ## The Protector

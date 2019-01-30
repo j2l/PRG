@@ -1,6 +1,3 @@
----
-published: true
----
 # ENTP
 
 ## The visionary
