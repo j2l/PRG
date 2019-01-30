@@ -125,10 +125,3 @@ inc_after_post_list :
 csv:
   education:
     source: test/fixtures/education.csv
-
-collections:
-  writers:
-    output: true
-    source: https://game.edendepot.com/PRG/test.csv
-    id_key: pid
-    layout: writer-profile-page
