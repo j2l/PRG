@@ -86,6 +86,7 @@ plugins:
  - jekyll-avatar
  - jemoji
  - jekyll-mentions
+ - jekyll-csv
 
 #
 # INCLUDING HOOKS
@@ -118,3 +119,12 @@ inc_before_page_list :
 inc_after_page_list :
 inc_before_post_list :
 inc_after_post_list :
+
+csv:
+  data:
+    source: test1.csv
+    slug: title
+    
+collections:
+  blog:
+    output:true
