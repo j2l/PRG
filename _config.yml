@@ -123,8 +123,8 @@ inc_before_post_list :
 inc_after_post_list :
 
 csv:
-  wiki:
-    source: https://docs.google.com/spreadsheets/u/1/d/1rFnkM9rrhwmo5eTwhEPordgucf-iNACnzc6E78elkaM/export?format=csv
+  data:
+    source: test.csv
 
 collections:
   wiki:
