@@ -30,10 +30,15 @@ At the CES 2017, I presented results to a [selected audience](https://www.eventb
 
 ### And now ... a cards game?
 "Science without conscience is but the ruin of the Soul" (Rabelais). 
+
 We needed to help people understand personalities, theirs and others.
+
 I started another app, and soon realized people really open themselves when playing casual games with friends. Not a lonely experience but a collective, fast paced, projection in a situation.
+
 That's how started this humble game.
+
 Since personalities are not really well known globally, I decided to focus on traits driven by these pesonalities. 
+
 We collected approximately 240 traits for 16 personalities.
 
 You are more than welcome to share about your traits in your personality and rate the closeness to your personality or a friend's one.
