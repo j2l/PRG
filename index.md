@@ -1,5 +1,3 @@
-⬅️ More languages
-
 ## Welcome to the Personalities Relationship Game
 
 The objective of this game is to improve team work and understanding of relationships within teams.
