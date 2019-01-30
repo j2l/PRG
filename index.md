@@ -36,7 +36,7 @@ The training includes:
 * To develop relationships and interactions between players
 * To take the time to discover personality traits altogether (yours and others)
 * To play it like a card game, it helps remove stress
-* To play with everyone around, from 13 to 113 years
+* To play with everyone around, from 13 to 113 years old
 * To play without the need to download+install+allow something on a device
 
 ![Personalities Cards Game](assets/images/cardsin2languages.png)
