@@ -123,9 +123,9 @@ inc_before_post_list :
 inc_after_post_list :
 
 csv:
-  data:
-    source: test.csv
+  education:
+    source: https://docs.google.com/spreadsheets/u/1/d/1rFnkM9rrhwmo5eTwhEPordgucf-iNACnzc6E78elkaM/export?format=csv
 
 collections:
-  wiki:
-    output: true
+  staff_members:
+    people: true
