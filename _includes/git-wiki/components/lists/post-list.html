@@ -21,6 +21,17 @@
 
         {% endfor %}
     </ul>
+	
+	<ul class="post-list">
+        {% assign numPages=0 %}
+        {% assign items = site.data.test %}
+        {% for blog in items %}
+        <li class="post-list-item">
+            <a href="{{ post.url | relative_url }}">{{ post.content}}</a>
+        </li>
+
+        {% endfor %}
+    </ul>
 
     <span class="post-list read-all"><a href="{{ '/blog/' | relative_url}}">Read all</a></span>
 
