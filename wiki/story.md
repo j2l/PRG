@@ -1,6 +1,6 @@
 ##Story of the game creation
 
-For Christmas 2015, my team decided to go for a new kind of "gift matcher" for our 400'000 customers throughout Europe.
+For Christmas 2015, my team decided to go for a new kind of "gift matcher" for our [400'000 customers throughout Europe](https://web.archive.org/web/20151223075234/http://www.expansys.com/).
 After years and 29 countries under the belt, we knew our customer segments and what will sell.
 After all this is global e-commerce marketing knowledge. 
 But we wanted more.
