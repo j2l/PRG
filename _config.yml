@@ -124,4 +124,4 @@ inc_after_post_list :
 
 csv:
   education:
-    source: test/fixtures/education.csv
+    source: https://docs.google.com/spreadsheets/u/1/d/1rFnkM9rrhwmo5eTwhEPordgucf-iNACnzc6E78elkaM/export?format=csv
