@@ -9,7 +9,7 @@
         {% assign items = site.data.public1 %}
         {% for column in items %}
         <li class="post-list-item">
-            <a href="{{ column.title | relative_url }}">{{column.title}}</a>
+            <a href="{{column.title}}">{{column.title}}</a>
         </li>
 
         {% endfor %}
